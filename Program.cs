@@ -91,6 +91,7 @@ namespace RockPaperScissors
                 }
                 else
                 {
+                    Console.WriteLine("Too bad!");
                     break;
                 }
             }
